@@ -2,6 +2,7 @@ package calc;
 
 import java.util.Scanner;
 
+/* Este é um comentário para demo do Commit */
 public class Calculadora {
 
 	public static void main(String[] args) {
