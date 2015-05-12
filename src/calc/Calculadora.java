@@ -22,6 +22,7 @@ public class Calculadora {
 				num2 = in.nextFloat();
 				
 				switch (op){
+				             /*  4  =  2   +  2 */
 					case 1 :	res = num1 + num2;
 						break;
 					case 2 :	res = num1 - num2;
